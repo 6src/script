@@ -19,6 +19,13 @@ local scripts = {
 
     -- Arcade Basketball
     [134558434771720] = "https://raw.githubusercontent.com/6src/script/main/ArcadeBasketball.lua",
+
+     -- Basketball Stars 3
+    [15583100726] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
+    [18638157143] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
+    [18668109315] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
+    [15583100726] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
+    [15583100726] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
 }
 
 local placeId = game.PlaceId
