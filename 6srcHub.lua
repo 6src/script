@@ -26,6 +26,13 @@ local scripts = {
     [18668109315] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
     [15583100726] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
     [15583100726] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
+
+     -- Hoops Life
+
+    [17331151853] = "https://raw.githubusercontent.com/6src/script/main/HoopsLife.lua",
+    [11731575387] = "https://raw.githubusercontent.com/6src/script/main/HoopsLife.lua",
+    [18894472013] = "https://raw.githubusercontent.com/6src/script/main/HoopsLife.lua",
+    [17483792958] = "https://raw.githubusercontent.com/6src/script/main/HoopsLife.lua",
 }
 
 local placeId = game.PlaceId
