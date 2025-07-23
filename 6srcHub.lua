@@ -24,8 +24,8 @@ local scripts = {
     [15583100726] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
     [18638157143] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
     [18668109315] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
-    [15583100726] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
-    [15583100726] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
+    [111682393431323] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
+    [131054006918765] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
 
      -- Hoops Life
 
