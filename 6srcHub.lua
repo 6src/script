@@ -38,6 +38,10 @@ local scripts = {
 
     [8204899140] = "https://raw.githubusercontent.com/6src/script/main/FF2.lua",
     [8206123457] = "https://raw.githubusercontent.com/6src/script/main/FF2.lua",
+
+    -- Hoopz
+
+    [6229116934] = "https://raw.githubusercontent.com/6src/script/main/Hoopz.lua",
 }
 
 local placeId = game.PlaceId
