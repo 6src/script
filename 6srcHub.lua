@@ -12,21 +12,6 @@ local scripts = {
     [16110530195] = "https://raw.githubusercontent.com/6src/script/main/HoopNation2.lua",
     [16128274392] = "https://raw.githubusercontent.com/6src/script/main/HoopNation2.lua",
 
-    -- Basketball Legends
-    [14259168147] = "https://raw.githubusercontent.com/6src/script/main/BasketballLegends.lua",
-    [14386691987] = "https://raw.githubusercontent.com/6src/script/main/BasketballLegends.lua",
-    [17652855195] = "https://raw.githubusercontent.com/6src/script/main/BasketballLegends.lua",
-
-    -- Arcade Basketball
-    [134558434771720] = "https://raw.githubusercontent.com/6src/script/main/ArcadeBasketball.lua",
-
-     -- Basketball Stars 3
-    [15583100726] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
-    [18638157143] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
-    [18668109315] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
-    [111682393431323] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
-    [131054006918765] = "https://raw.githubusercontent.com/6src/script/main/BasketballStars3.lua",
-
      -- Hoops Life
 
     [17331151853] = "https://raw.githubusercontent.com/6src/script/main/HoopsLife.lua",
