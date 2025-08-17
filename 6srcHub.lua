@@ -1,12 +1,4 @@
 local scripts = {
-    
-    -- RH2
-    [6678600773] = "https://raw.githubusercontent.com/6src/script/main/RH2.lua",
-    [7235817949] = "https://raw.githubusercontent.com/6src/script/main/RH2.lua",
-    [8026790371] = "https://raw.githubusercontent.com/6src/script/main/RH2.lua",
-    [14269621394] = "https://raw.githubusercontent.com/6src/script/main/RH2.lua",
-    [13272886093] = "https://raw.githubusercontent.com/6src/script/main/RH2.lua",
-    [6585022145] = "https://raw.githubusercontent.com/6src/script/main/RH2.lua",
 
     -- Hoop Nation 2
     [16347334090] = "https://raw.githubusercontent.com/6src/script/main/HoopNation2.lua",
